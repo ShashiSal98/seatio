@@ -2,7 +2,7 @@
 
 <img width="1891" height="891" alt="seatio" src="https://github.com/user-attachments/assets/f0e77f2f-6f79-45f6-a385-cd456acfa0c2" />
 
-Seatio Cinema is a basic web-based **cinema seat booking system** built with **PHP** and **MySQL**.
+Seatio Cinema is a web-based **cinema seat booking system** built with **PHP** and **MySQL**.
 
 ## 📌 Features
 
